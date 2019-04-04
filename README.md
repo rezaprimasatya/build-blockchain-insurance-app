@@ -36,7 +36,7 @@ We find that Blockchain can be finicky when it comes to installing Node. We want
 
 Clone the repository:
 ```bash
-git clone https://github.com/IBM/build-blockchain-insurance-app
+git clone https://github.com/rezaprimasatya/build-blockchain-insurance-app
 ```
 
 Login using your [docker hub](https://hub.docker.com/) credentials.
